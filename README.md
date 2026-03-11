@@ -138,24 +138,6 @@ AutoPod will now monitor the selected screen areas and trigger the configured fl
 
 ---
 
-## Interface Overview
-
-AutoPod is built to be simple, clear, and fast to use.
-
-The interface includes:
-
-. Current license status  
-. Script status  
-. Remaining license time  
-. Device ID  
-. License input  
-. Area selection buttons  
-. Start / Stop controls  
-
-Everything is designed to get you ready within seconds.
-
----
-
 ## Who AutoPod Is For
 
 AutoPod is ideal for players who want:
@@ -175,6 +157,19 @@ AutoPod is a third-party utility and is **not affiliated with Grinding Gear Game
 Users should always review the current game rules, policies, and Terms of Use before using any third-party software.
 
 Use is entirely at your own discretion and responsibility.
+
+---
+
+## Can I Get Banned for Using AutoPod?
+
+AutoPod does **not inject into the game**, does **not modify game files**, and does **not read or edit game memory**. It works externally through **pixel and color detection on your screen that is attached to your Computer**.
+
+Because of that, it is designed to be a much more cautious and non-invasive approach than intrusive tools.
+
+However, no third-party tool can ever guarantee absolute safety.  
+Use is always at your **own risk and responsibility**.
+
+If you want to stay fully informed, always review the latest game rules, policies, and Terms of Use before using any third-party software.
 
 ---
 
