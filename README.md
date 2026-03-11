@@ -13,6 +13,16 @@ AutoPod reacts only to what is visible on your monitor. Nothing more, nothing le
 
 ---
 
+## How to Install
+
+1. Download the file.
+2. Extract the `release` folder.
+3. Open the `release` folder.
+4. Double-click `poeautopot.exe`.
+5. Enjoy your free trial.
+
+---
+
 ## Why AutoPod Exists
 
 At some point, I was simply tired of dying because I forgot to press my **health flask** in time.
@@ -91,21 +101,6 @@ That means you can:
 . Configure your screen areas  
 . See how the utility behaves in real gameplay  
 . Decide for yourself if it fits your playstyle  
-
----
-
-## Setup Guide
-
-### 1.1 Download AutoPod
-Download the latest AutoPod release and extract the files if needed.
-
-### 1.2 Start the Application
-Launch **AutoPod** and wait until the interface is fully loaded.
-
-### 1.3 Activate Your Trial or License
-Enter your license key to activate AutoPod.
-
-If you are a new user, you can start with the **free 24-hour trial license**.
 
 ---
 
