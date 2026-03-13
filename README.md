@@ -166,12 +166,11 @@ Use is entirely at your own discretion and responsibility.
 
 AutoPod does **not inject into the game**, does **not modify game files**, and does **not read or edit game memory**. It works externally through **pixel and color detection on your screen that is attached to your Computer**.
 
-Because of that, it is designed to be a much more cautious and non-invasive approach than intrusive tools.
+If you solve this math: 1+1=?
+You also can reply this question for yourself.
 
 However, no third-party tool can ever guarantee absolute safety.  
 Use is always at your **own risk and responsibility**.
-
-If you want to stay fully informed, always review the latest game rules, policies, and Terms of Use before using any third-party software.
 
 ---
 
