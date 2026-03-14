@@ -166,7 +166,7 @@ Use is entirely at your own discretion and responsibility.
 
 AutoPod does **not inject into the game**, does **not modify game files**, and does **not read or edit game memory**. It works externally through **pixel and color detection on your screen that is attached to your Computer**.
 
-If you solve this math: 1+1=?
+If you can solve this math: 1+1=?
 You also can reply this question for yourself.
 
 However, no third-party tool can ever guarantee absolute safety.  
