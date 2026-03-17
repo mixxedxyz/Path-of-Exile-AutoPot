@@ -7,6 +7,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/UV02NyX.png" width="600"/>
+</p>
+
 **AutoPod** is a lightweight external utility for **Path of Exile 1 and Path of Exile 2**, created to make flask usage faster, smoother, and more reliable during intense gameplay.
 
 It works entirely through **pixel and color detection on your screen**.
